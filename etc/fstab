@@ -1,0 +1,4 @@
+#SOURCE                                    DIR        TYPE   OPTIONS                DUMP  PASS
+tmpfs                                      /tmp       tmpfs  defaults,nosuid,nodev  0     0
+UUID=e84c97ca-f271-4a8b-a983-d23f680567c0  /          ext4   defaults               0     1
+UUID=DE0B-22BE                             /boot/efi  vfat   defaults               0     1
